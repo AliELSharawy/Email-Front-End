@@ -1,8 +1,6 @@
 # Email Frontend
 Implemented using Angular Framework
 
-[lab 4 report prog 2.pdf](https://github.com/AliELSharawy/Email-Front-End/files/8628002/lab.4.report.prog.2.pdf)
-
 Email Web Application provides:
 
     1- sending emails\
