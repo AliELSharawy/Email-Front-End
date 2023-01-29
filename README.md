@@ -2,9 +2,9 @@
 Implemented using Angular Framework
 
 Team Members:
-    -Ali Hassan ElSharawy
-    -Basel Ahmed
-    -Louay Magdy
+  Ali Hassan ElSharawy
+  Basel Ahmed
+  Louay Magdy
 
 Email Web Application provides:
 
