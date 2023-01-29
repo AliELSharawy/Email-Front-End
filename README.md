@@ -19,5 +19,9 @@ Implemented using Angular Framework
     9- deleting the trashed emails after about 30 days from the trashing process date
     10- searching for some users
     11- adding users as friends
+    
+## User Guide and UI Snippets:
+![{DCA75AC1-9CE0-4294-9413-AB4E101CA8A4} png](https://user-images.githubusercontent.com/95590176/215337335-b3f4665a-0b28-46ee-8fb6-cd09ef41d4d5.jpg)
+![{A5EAC96E-8445-4F1B-B982-5308F1D2F35E} png](https://user-images.githubusercontent.com/95590176/215337345-48d5cae5-9e42-428f-92c6-f1dcdbcf0925.jpg)
 
 Email Backend: https://github.com/AliELSharawy/Email-Back-End
