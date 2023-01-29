@@ -1,12 +1,12 @@
 # Email Frontend
 Implemented using Angular Framework
 
-Team Members:
+## Team Members:
   Ali Hassan ElSharawy
   Basel Ahmed
   Louay Magdy
 
-Email Web Application provides:
+## Email Web Application provides:
 
     1- sending emails
     2- staring emails
