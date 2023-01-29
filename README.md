@@ -1,7 +1,7 @@
 # Email Frontend
-Implemented using Angular Framework \
-Run Front-End Program on local host https://localhost:4200/ \
-Email Backend: https://github.com/AliELSharawy/Email-Back-End
+- Implemented using Angular Framework 
+- Run Front-End Program on local host https://localhost:4200/ 
+- Email Backend: https://github.com/AliELSharawy/Email-Back-End
 
 ## Team Members:
     Ali Hassan ElSharawy
