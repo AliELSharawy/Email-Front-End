@@ -1,5 +1,5 @@
 # Email Frontend
-Implemented using Angular Framework /
+Implemented using Angular Framework \
 Run Front-End Program on local host https://localhost:4200/
 
 ## Team Members:
